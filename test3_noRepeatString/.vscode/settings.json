@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+
+    "vim.normalModeKeyBindingsNonRecursive":
+    [
+    // jump to the end of the line
+       {"before": ["9",],"after": ["$",]},
+    // jump to the begin of the line
+       {"before": ["0",],"after": ["^",],},
+    ],
+}
